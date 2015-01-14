@@ -1,0 +1,22 @@
+<svg version="1.1" 
+	class="svg-divder" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	x="0px"
+	y="0px" 
+	viewBox="0 0 80 3"  
+	xml:space="preserve"
+>
+	<rect 
+		x="1" 
+		fill="#c6c3b9" 
+		width="16" 
+		height="1"
+	>
+		<animate 
+			attributeName="x" 
+			attributeType="XML"
+        	values="1; 64; 1"
+        begin="0s" dur="0.5s" repeatCount="indefinite" />
+	</rect>
+</svg>
